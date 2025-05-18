@@ -1,0 +1,18 @@
+# Ignore IDE-specific settings
+.idea/
+.settings/
+*.iml
+*.ipr
+*.iws
+
+# Ignore build/output folders
+build/
+classes/
+target/
+
+# Ignore Eclipse project files
+.classpath
+.project
+
+# Ignore Tomcat plugin config
+.smarttomcat/
