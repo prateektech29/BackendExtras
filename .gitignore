@@ -16,3 +16,5 @@ target/
 
 # Ignore Tomcat plugin config
 .smarttomcat/
+
+META-INF/
