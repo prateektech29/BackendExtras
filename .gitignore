@@ -4,6 +4,7 @@
 *.iml
 *.ipr
 *.iws
+bin/
 
 # Ignore build/output folders
 build/
